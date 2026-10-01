@@ -12,16 +12,17 @@ This project serves as a structured log of my progress as I learn web developmen
 ```text
 .
 ├── 01-fundamentals/
-│   ├── index.html
+    ├── index.html
     ├── lyrics.html
     └── execise/
         ├──HTML Assignment Grade Report.pdf
         ├──HTML Practice Assignment.pdf
         └──index.html
+├── 02-text-and-formatting/
+    ├── index.html
+    ├── lyric.html
+    └── execise/
+        ├──HTML Hyperlinks Practice Problem.pdf
+        ├──HTML Hyperlinks Submission Evaluation.pdf
+        └──index.html
 ```
-
-## Live Demo
-
-Once deployed on GitHub Pages, the live interactive version of the capstone project can be viewed here:
-
-**[Live Demo Placeholder](#)** *(Enable GitHub Pages in repo settings to update this link)*
