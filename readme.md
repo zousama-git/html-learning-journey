@@ -26,18 +26,34 @@ This project serves as a structured log of my progress as I learn web developmen
 │       ├── HTML Hyperlinks Submission Evaluation.pdf
 │       └── index.html
 └── 03-links-and-media/
-    ├── index.html
-    ├── lyrics.html
-    ├── images/
-    │   ├── dog.gif
-    │   ├── dog.jpg
-    │   └── R.jpg
-    └── exercise/
-        ├── cake_bank_grade.pdf
-        ├── html_images_practice_problem.pdf
-        ├── assets/
-        │   ├── cake.jpg
-        │   ├── cake1.jpg
-        │   └── cake2.jpg
-        └── index.html
+    ├── Images
+    │    ├── index.html
+    │    ├── lyrics.html
+    │    ├── images/
+    │    │   ├── dog.gif
+    │    │   ├── dog.jpg
+    │    │   └── R.jpg
+    │    └── exercise/
+    │        ├── cake_bank_grade.pdf
+    │        ├── html_images_practice_problem.pdf
+    │        ├── assets/
+    │        │   ├── cake.jpg
+    │        │   ├── cake1.jpg
+    │        │   └── cake2.jpg
+    │        └── index.html
+    ├── Audio
+    │    ├── index.html
+    │    ├── assests/
+    │    │   ├── Away From You - Televisions.mp3
+    │    │   ├── From Loving You - Televisions.mp3
+    │    │   └── Make Me Laugh - Televisions.mp3
+    │    └── exercise/
+    │        ├── Grade Report - HTML Audio.pdf
+    │        ├── Practice Problem - HTML Audio.pdf
+    │        ├── assets/
+    │        │   ├── Ego Chall - Blue Deer Studio.mp3
+    │        │   ├── Ego Chall - Blue Deer Studio.wav
+    │        │   └── From Loving You - Televisions.ogg
+    │        └── index.html
+    ├── Video
 ```
